@@ -12,3 +12,4 @@ C++ Projects
 10. Hypotenuse Calculator - 9/5/2025
 11. If Statements - 9/5/2025
 12. Switches - 9/5/2025
+13. ConsoleCalculator - 9/6/2025
