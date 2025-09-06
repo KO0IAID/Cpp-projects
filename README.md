@@ -10,3 +10,5 @@ C++ Projects
 8. User Input - 7/20/2025
 9. Math Functions - 9/5/2025
 10. Hypotenuse Calculator - 9/5/2025
+11. If Statements - 9/5/2025
+12. Switches - 9/5/2025
