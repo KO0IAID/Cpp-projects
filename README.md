@@ -13,3 +13,5 @@ C++ Projects
 11. If Statements - 9/5/2025
 12. Switches - 9/5/2025
 13. ConsoleCalculator - 9/6/2025
+14. Ternary Operator - 9/6/2025
+15. Logical Operators - 9/6/2025
