@@ -20,3 +20,6 @@ C++ Projects
 18. While Loops - 9/6/2025
 19. Do While Loops - 9/6/2025
 20. For Loops - 9/6/2025
+21. Break & Continue - 9/8/2025
+22. Nested Loops - 9/8/2025
+23. Random Number Generator - 9/8/2025
