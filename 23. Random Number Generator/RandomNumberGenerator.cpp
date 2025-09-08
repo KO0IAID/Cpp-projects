@@ -30,20 +30,20 @@ int main()
     std::cout << "Rand:\t\t" << num << '\n';
     
 
-    // To generate a random number within a range 0-6 
-    // - Modulus by the desired end range number
+    // To generate a random number within a range 0-5 
+    // - Modulus by the desired end range number - 1
 
     num = rand() % 6;
 
-    std::cout << "Range 0-6:\t" << num << '\n';
+    std::cout << "Range 0-5:\t" << num << '\n';
 
 
-    // To generate a random number within a range 1-6 
+    // To generate a random number within a range 1-5 
     // - Modulus by the desired end range number
     // - wrap in parentheses
     // - Add the low range number you desire
 
-    num = (rand() % 6) + 1;
+    num = (rand() % 5) + 1;
 
     std::cout << "Range 1-6:\t" << num << '\n';
 
