@@ -25,3 +25,4 @@ C++ Projects
 23. Random Number Generator - 9/8/2025
 24. Random Event Generator - 9/8/2025
 25. Number Guessing Game - 9/8/2025
+26. Functions - 9/12/2025
