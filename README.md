@@ -28,3 +28,5 @@ C++ Projects
 26. Functions - 9/12/2025
 27. Return - 9/12/2025
 28. Overloaded Functions - 9/13/2025
+29. Variable Scope - 9/14/2025
+30. Banking Practice Program - 9/14/2025
