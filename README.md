@@ -31,3 +31,4 @@ C++ Projects
 29. Variable Scope - 9/14/2025
 30. Banking Practice Program - 9/14/2025
 31. Rock Paper Scissors - 9/14/2025
+32. Iterate Array - 9/15/2025
