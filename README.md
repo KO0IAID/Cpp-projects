@@ -41,3 +41,5 @@ C++ Projects
 39. Fill Function - 9/16/2025
 40. Array With User Input - 9/16/2025
 41. Multidimensional Arrays (2D) 9/16/2025
+42. Quiz Game - 9/16/2025
+43. Memory Addresses - 9/16/2025
