@@ -20,7 +20,7 @@ int main()
     std::string name = "Nick";
     int age = 21;
     bool student = true;
-                                            //  Examples: of Hexidecimal to decimal            
+                                            //  Examples: of Hexidecimal to decimal  (allows us to see byte usage)          
     std::cout << &name << '\n';             //  814066169344    -   strings 12 bytes 32 bit systems, and 24 bytes on 64 bit.
     std::cout << &age << '\n';              //  814066169340    -   ints    take 4 bits
     std::cout << &student << '\n';          //  814066169339    -   bools   take 1 bit
