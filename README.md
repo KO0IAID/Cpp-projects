@@ -37,4 +37,5 @@ C++ Projects
 35. Foreach - 9/15/2025
 36. Passing Arrays to Functions - 9/15/2025
 37. Searching An Array (Linear) - 9/15/2025
-37. Sort An Array (Bubble Sort) - 9/15/2025
+38. Sort An Array (Bubble Sort) - 9/15/2025
+39. Fill Function - 9/16/2025
