@@ -39,3 +39,5 @@ C++ Projects
 37. Searching An Array (Linear) - 9/15/2025
 38. Sort An Array (Bubble Sort) - 9/15/2025
 39. Fill Function - 9/16/2025
+40. Array With User Input - 9/16/2025
+41. Multidimensional Arrays (2D) 9/16/2025
