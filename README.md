@@ -43,4 +43,7 @@ C++ Projects
 41. Multidimensional Arrays (2D) 9/16/2025
 42. Quiz Game - 9/16/2025
 43. Memory Addresses - 9/16/2025
-44. Credit Card Validator (Luhn) - 9/16/2025
+44. Pass by Value vs Reference - 9/16/2025
+45. Const Parameters - 9/16/2025
+46. Credit Card Validator (Luhn) - 9/16/2025
+47. Pointers - 9/16/25
