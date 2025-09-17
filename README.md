@@ -47,3 +47,5 @@ C++ Projects
 45. Const Parameters - 9/16/2025
 46. Credit Card Validator (Luhn) - 9/16/2025
 47. Pointers - 9/16/25
+48. Null Pointers - 9/17/2025
+49. Tic Tac Toe - 9/17/2025
