@@ -49,3 +49,5 @@ C++ Projects
 47. Pointers - 9/16/25
 48. Null Pointers - 9/17/2025
 49. Tic Tac Toe - 9/17/2025
+50. Dynamic Memory - 9/17/2025
+51. Recursion - 9/17/2025
