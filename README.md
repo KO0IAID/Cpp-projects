@@ -53,3 +53,5 @@ C++ Projects
 51. Recursion - 9/17/2025
 52. Function Templates - 9/17/2025
 53. Struct - 9/18/2025
+54. Struct As Argument - 9/18/2025
+55. Enums - 9/18/2025
