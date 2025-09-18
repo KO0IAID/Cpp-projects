@@ -5,6 +5,9 @@
                             - Structs can contain many diffrent data types (string, int, bool)
                             - Variables in a struct are known as "Members"
                             - Members can be accessed with . Known as the class member access operator
+                            - Members are defaulted to public 
+                            - Almost identical to a class, only diffrence is they default to public access
+                            - Where as a class defaults to private access
 */
 
 struct student 
