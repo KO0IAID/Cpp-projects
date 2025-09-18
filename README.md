@@ -52,3 +52,4 @@ C++ Projects
 50. Dynamic Memory - 9/17/2025
 51. Recursion - 9/17/2025
 52. Function Templates - 9/17/2025
+53. Struct - 9/18/2025
