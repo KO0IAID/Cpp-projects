@@ -1,5 +1,8 @@
 # cpp-projects
-C++ Projects
+
+My complete course work from the - Code Bro Course:
+https://www.youtube.com/watch?v=-TkoO8Z07hI
+
 01. HelloWorld - 7/19/2025
 02. Variables  - 7/19/2025
 03. Constants  - 7/19/2025
@@ -58,3 +61,5 @@ C++ Projects
 56. Object Oridented Programming (Classes) - 9/18/2025
 57. Constructors - 9/18/2025
 58. Overloaded Constructors - 9/18/2025
+59. Getters & Setters - 9/18/2025
+60. Inheritance - 9/19/2025
