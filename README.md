@@ -1,5 +1,8 @@
 # cpp-projects
-C++ Projects
+
+My complete course work from the - Code Bro Course:
+https://www.youtube.com/watch?v=-TkoO8Z07hI
+
 01. HelloWorld - 7/19/2025
 02. Variables  - 7/19/2025
 03. Constants  - 7/19/2025
